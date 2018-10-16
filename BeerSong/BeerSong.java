@@ -1,3 +1,7 @@
+/*
+Use a cabeça! Java - Capitulo 1 - Beer song
+*/
+
 public class BeerSong {
 	public static void main(String[] args) {
 		int beerNum = 99;

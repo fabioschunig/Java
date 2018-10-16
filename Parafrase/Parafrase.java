@@ -1,3 +1,7 @@
+/*
+Use a cabeça! Java - Capitulo 1 - Parafrase
+*/
+
 public class Parafrase {
 	public static void main(String[] args) {
 		String[] wordListOne = {
